@@ -9,7 +9,6 @@ Full-stack developer with extensive experience in building and maintaining web a
 * 🌍  I'm based in İstanbul, Türkiye
 * 🖥️  See my portfolio at [Portfolio Website](https://tareq-harh.vercel.app/)
 * ✉️  You can contact me at [tareq310harh@gmail.com](mailto:tareq310harh@gmail.com)
-* 🚀  I'm currently working on C** V*
 * 🧠  I'm learning Nest JS
 
 ### Socials
