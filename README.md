@@ -5,7 +5,7 @@
 I build practical web applications and business software, with a focus on **ERP/CRM systems, data management, productivity tools, and AI-powered applications**.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-tareqharh.com-18181B?style=flat-square&logo=googlechrome&logoColor=white)](https://tareqharh.com/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Tareq%20Harh-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tareq-harh-6b21a51ba)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Tareq%20Harh-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tareq-harh/)
 [![Email](https://img.shields.io/badge/Email-harh.tareq%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:harh.tareq@gmail.com)
 
 📍 İstanbul, Türkiye
@@ -60,7 +60,7 @@ AI-powered workflows • System design • Software architecture
 I'm always interested in software engineering, business applications, productivity systems, and practical product ideas.
 
 - 🌐 [tareqharh.com](https://tareqharh.com/)
-- 💼 [LinkedIn](https://www.linkedin.com/in/tareq-harh-6b21a51ba)
+- 💼 [LinkedIn](https://www.linkedin.com/in/tareq-harh/)
 - ✉️ [harh.tareq@gmail.com](mailto:harh.tareq@gmail.com)
 
 ---
