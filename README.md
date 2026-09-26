@@ -2,7 +2,7 @@
 
 **Software Developer · Full-stack Developer**
 
-I build practical web applications and business software, with a focus on **ERP/CRM systems, data management, productivity tools, and AI-powered applications**.
+I build modern web applications and business software, with a focus on **ERP/CRM systems, data management, productivity tools, and AI-powered applications**.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-tareqharh.com-18181B?style=flat-square&logo=googlechrome&logoColor=white)](https://tareqharh.com/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Tareq%20Harh-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tareq-harh/)
